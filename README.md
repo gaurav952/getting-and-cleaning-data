@@ -1,5 +1,5 @@
 <b> Getting-and-cleaning-data </b><br/>
-<b>Course project from Coursera </b>
+<b>Course project from Coursera </b> <br/>
 date: "September 14, 2018"
   
 This project is to prepare a tidy data set for later analysis from the experiment data available at-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.<br/> 
