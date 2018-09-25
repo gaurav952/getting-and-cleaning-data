@@ -1,6 +1,6 @@
 #clean workspace and set the working directory
 rm(list = ls())
-setwd("C:/Users/Gaurav/Desktop/getting and cleaning data")
+#setwd("C:/Users/Gaurav/Desktop/getting and cleaning data")
 
 #download dataset and unzip
 filename <- "dataset.zip"
